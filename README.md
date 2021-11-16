@@ -29,7 +29,7 @@ Web app that allows user to take notes with text and title, users can delete and
 
   []()
 
-  After clicking on the `Get Started` button you should be taken to the next page which is where you can view saved notes, erase old notes, and create new notes. The webpage should look like the following image:
+image:
 
   ![]()
   
