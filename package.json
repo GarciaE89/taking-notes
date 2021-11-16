@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/GarciaE89/taking-notes#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "get-uid": "^1.0.1"
   }
 }
