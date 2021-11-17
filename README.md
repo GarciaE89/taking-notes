@@ -27,11 +27,12 @@ Web app that allows user to take notes with text and title, users can delete and
 
   The current version of the website is deployed at Heroku. Please follow this link: 
 
-  []()
+  [https://warm-ocean-30014.herokuapp.com](https://warm-ocean-30014.herokuapp.com)
 
 image:
 
-  ![]()
+  ![Note taker entry](<img width="1420" alt="Screen Shot 2021-11-17 at 12 51 54 AM" src="https://user-images.githubusercontent.com/74579301/142158602-40b89124-5c88-4b83-b280-cafd8cd00389.png">
+)
   
  
       
