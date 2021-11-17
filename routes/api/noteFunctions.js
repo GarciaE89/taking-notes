@@ -11,8 +11,8 @@ function findNotebyId(id, notesArr) {
     })
 
     // rewrite new array
-fs.writeFileSync(path.join(__dirname, '../../db/db.json')),
-JSON.stringify(newNoteArr, null, 2);
+fs.writeFileSync(path.join(__dirname, '../../db/db.json'),
+JSON.stringify(newNoteArr, null, 2));
 return newNoteArr;
     
 };
